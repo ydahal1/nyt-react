@@ -1,0 +1,9 @@
+.navStyle {
+	background-color: '#2e5cb8';
+  	border-color: '#2e5cb8';
+  	color: 'white';
+}
+
+.navStyle:hover {
+	background-color: '#99b3e6';
+}
